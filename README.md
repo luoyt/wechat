@@ -1,1 +1,5 @@
 # wechat
+
+```
+$wechat = new Wechat();
+```
