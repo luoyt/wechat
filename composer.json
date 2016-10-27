@@ -10,5 +10,10 @@
             "name": "luoyt",
             "email": "501244162@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "luoyt\\wechat\\": "src/"
+        }
+    }
 }
