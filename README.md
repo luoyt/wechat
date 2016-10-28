@@ -1,6 +1,6 @@
 # 微信公众平台开发
 [微信开发文档](http://mp.weixin.qq.com/wiki "开发文档") 
-# 自动处理代码例子
+# 自动处理代码例子:blush:
 
 ``` php
 $options['token'] = "123456";
